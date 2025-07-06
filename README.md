@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Javi! 👋<br> I'm a Full-Stack Developer based in Valencia, Spain.
 
-<!--
-**jaygosling/jaygosling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My stack these days
+PHP |  Symfony | AngularJS | JavaScript | HTML + CSS | Bootstrap | MySQL | REST API | SOAP API 
 
-Here are some ideas to get you started:
+#### But I also have experience in...
+C# | Vue.js | .NET | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### And this is the stack that started it all, the one I studied at [4Geeks Academy](4geeks.com)
+HTML | CSS | JavaScript | ReactJS | Python | Flask | MySQL | NPM
+
+## My main projects
+
+### Influěre
+Final project at 4Geeks Academy consisting on a website built for influencers and companies to get in touch.
+**Stack:** HTML | CSS | JavaScript | ReactJS | Python | Flask | NPM  HTML | CSS | JavaScript | MySQL
+[Take a look at the code](https://github.com/jaygosling/influere)
+
+### Lights Out
+Simple game consisting on turning off all the lit buttons by pressing them. When you press a button, the lights around them will switch state.
+[Try it out](https://jaygosling.github.io/lightsout/) or [Take a look at the code](https://github.com/jaygosling/lights-out/)
+
+### Bingo
+A web app to pick numbers in order to play a bingo game. Not as fun as picking balls from a bingo cage, but way more portable :)
+[Try it out](https://jaygosling.github.io/bingo/) or [Take a look at the code](https://github.com/jaygosling/bingo/)
