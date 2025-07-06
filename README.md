@@ -16,10 +16,14 @@ Final project at 4Geeks Academy consisting on a website built for influencers an
 **Stack:** HTML | CSS | JavaScript | ReactJS | Python | Flask | NPM  HTML | CSS | JavaScript | MySQL
 [Take a look at the code](https://github.com/jaygosling/influere)
 
+### Bingo
+A web app to pick numbers in order to play a bingo game. Not as fun as picking balls from a bingo cage, but way more portable :)
+[Try it out](https://jaygosling.github.io/bingo/) or [Take a look at the code](https://github.com/jaygosling/bingo/)
+
 ### Lights Out
 Simple game consisting on turning off all the lit buttons by pressing them. When you press a button, the lights around them will switch state.
 [Try it out](https://jaygosling.github.io/lightsout/) or [Take a look at the code](https://github.com/jaygosling/lights-out/)
 
-### Bingo
-A web app to pick numbers in order to play a bingo game. Not as fun as picking balls from a bingo cage, but way more portable :)
-[Try it out](https://jaygosling.github.io/bingo/) or [Take a look at the code](https://github.com/jaygosling/bingo/)
+### Tic Tac Toe
+Classic Tic Tac Toe game. Try to get three of your symbol (X's or O's) in line. You know how it goes!
+[Try it out](https://jaygosling.github.io/tictactoe/) or [Take a look at the code](https://github.com/jaygosling/tic-tac-toe/)
