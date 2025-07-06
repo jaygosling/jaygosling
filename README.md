@@ -1,7 +1,7 @@
 ## Hi, I'm Javi! 👋<br> I'm a Full-Stack Developer based in Valencia, Spain.
 
 ### My stack these days
-PHP |  Symfony | AngularJS | JavaScript | HTML + CSS | Bootstrap | MySQL | REST API | SOAP API 
+PHP |  Symfony | AngularJS | JavaScript | HTML + CSS | Bootstrap | MySQL | REST API | SOAP API | Docker | Windows | Linux
 
 #### But I also have experience in...
 C# | Vue.js | .NET | SQL
